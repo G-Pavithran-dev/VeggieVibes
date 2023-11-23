@@ -1,0 +1,263 @@
+{
+  "Veggies": [
+    {
+      "id": 1,
+      "name": "Tomato",
+      "full description": "Tomatoes are the edible fruits of the Solanum lycopersicum plant, commonly known as the tomato plant. They belong to the nightshade family, along with potatoes, eggplants, and bell peppers. Originally native to western South America, tomatoes have become a staple in various cuisines worldwide.",
+      "description": "Tomatoes are a rich source of vitamins and antioxidants,potassium, associated with various health benefits.",
+      "stock": 80,
+      "price": 25,
+      "image_url": "https://images.pexels.com/photos/1327838/pexels-photo-1327838.jpeg"
+    },
+    {
+      "id": 2,
+      "name": "Potato",
+      "full description": "Potatoes are starchy, tuberous crops from the Solanaceae family, native to the Andes region in South America. They are one of the world's most widely consumed vegetables and a staple food in many cultures globally.",
+      "description": "Potatoes are a good source of carbohydrates, fiber, vitamins (especially vitamin C and B6), and minerals. ",
+      "stock": 75,
+      "price": 18,
+      "image_url": "https://images.pexels.com/photos/2286776/pexels-photo-2286776.jpeg"
+    },
+    {
+      "id": 3,
+      "name": "Brinjal",
+      "fulldescription": "Brinjal, commonly known as eggplant in many English-speaking countries or aubergine in some regions, is a type of fruit that belongs to the nightshade family, Solanaceae. It is widely cultivated for its edible fruit, which is used in various culinary dishes around the world. Brinjal is believed to have originated in India and Southeast Asia.",
+      "description": "Due to its high fiber content, brinjal can aid in digestion and may contribute to heart health.",
+      "stock": 60,
+      "price": 15,
+      "image_url": "https://5.imimg.com/data5/BV/NC/MY-51202890/fresh-brinjal.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Raddish",
+      "full description": "Radishes are a root vegetable belonging to the Brassicaceae family, commonly consumed worldwide for their crisp texture and peppery flavor. They are known for their rapid growth and ability to thrive in various climates, making them popular in different cuisines. ",
+      "description": "Radishes are low in calories but rich in vitamins, minerals, and antioxidants.",
+      "stock": 50,
+      "price": 10,
+      "image_url": "https://t3.ftcdn.net/jpg/03/08/98/36/360_F_308983658_jPPDbcLVDbAD9Qw2IjzzuKXtnlusbuqA.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Chilly",
+      "full description": "It seems like you're referring to chili or chilli, which is a type of pepper rather than the sensation of coldness (chilly). Chilies are a fundamental ingredient in various cuisines worldwide, adding heat, flavor, and depth to dishes",
+      "description": "Chilies contain several health-promoting compounds, which is believed to have antioxidant properties.",
+      "stock": 30,
+      "price": 5,
+      "image_url": "https://images.pexels.com/photos/68170/paprika-green-red-vegetables-68170.jpeg"
+    },
+    {
+      "id": 6,
+      "name": "Beans",
+      "full description": "Beans are a type of legume that come in various shapes, sizes, and colors, and they are consumed worldwide for their nutritional value and versatility in cooking. They belong to the Fabaceae family and are a rich source of plant-based protein, fiber, vitamins, and minerals.",
+      "description": "Beans are highly nutritious and considered a staple in vegetarian and vegan diets due to their protein content.",
+      "stock": 40,
+      "price": 12,
+      "image_url": "https://images.pexels.com/photos/3004798/pexels-photo-3004798.jpeg"
+    },
+    {
+      "id": 7,
+      "name": "Cabbage",
+      "full description": "Cabbage is a leafy vegetable belonging to the Brassica genus, which includes other vegetables like broccoli, cauliflower, and Brussels sprouts. It's a versatile and widely used vegetable known for its robust texture and ability to be prepared in various ways.",
+      "description": " Cabbage is low in calories and rich in nutrients. It contains vitamins (vitamin K, vitamin C, and folate)",
+      "stock": 30,
+      "price": 25,
+      "image_url": "https://images.pexels.com/photos/6316537/pexels-photo-6316537.jpeg"
+    },
+    {
+      "id": 8,
+      "name": "Beetroot",
+      "full description": "Beetroot, commonly known as beets or simply beet, is a root vegetable that belongs to the Chenopodiaceae family. This versatile vegetable is prized for its sweet flavor, vibrant color, and numerous health benefits.",
+      "description": "Consuming beetroot is associated with several health benefits, including improved blood pressure",
+      "stock": 70,
+      "price": 15,
+      "image_url": "https://t3.ftcdn.net/jpg/06/19/03/06/360_F_619030676_i9qhkte7Z9G9BFm1LG7WGLwLK6Z9tzBu.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Cauliflower",
+      "full description": "Cauliflower is a versatile vegetable belonging to the Brassica oleracea species, which also includes broccoli, cabbage, and Brussels sprouts. Known for its distinctive appearance and mild flavor, cauliflower is widely used in various culinary preparations and has gained popularity as a nutritious ingredient in many dishes.",
+      "description": "Cauliflower is low in calories and carbohydrates but rich in vitamins, minerals, and antioxidants properties.",
+      "stock": 60,
+      "price": 30,
+      "image_url": "https://img1.exportersindia.com/product_images/bc-full/dir_180/5377233/fresh-cauliflower-1521458751_p_3679323_713242.jpeg"
+    },
+    {
+      "id": 10,
+      "name": "Pumpkin",
+      "full description": "Pumpkin, a type of winter squash, is a large, round, or oblong-shaped fruit from the Cucurbitaceae family. Known for its vibrant orange color and sweet, nutty flavor, pumpkins are widely used in culinary dishes and decorative purposes, especially during the fall season.",
+      "description": "Pumpkins are low in calories but rich in vitamins, minerals, antioxidants, and dietary fiber.  ",
+      "stock": 30,
+      "price": 15,
+      "image_url": "https://cdn.pixabay.com/photo/2021/09/20/16/47/pumpkins-6641314_640.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Ladiesfinger",
+      "full description": "Ladies finger,commonly known as okra in many parts of the world, is a green, pod-like vegetable belonging to the mallow family, Malvaceae. Known for its unique texture and flavor, okra is a popular ingredient in various cuisines, particularly in Southern U.S., Middle Eastern, African, and South Asian cooking.",
+      "description": "Okra is low in calories and a good source of vitamins, minerals (potassium and magnesium), and dietary fiber. ",
+      "stock": 60,
+      "price": 10,
+      "image_url": "https://c4.wallpaperflare.com/wallpaper/662/804/864/food-okra-wallpaper-preview.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Carrot",
+      "full description": "Carrots are root vegetables that belong to the Apiaceae family and are widely recognized for their vibrant orange color, sweet flavor, and nutritional value. They are commonly used in cooking and are enjoyed both raw and cooked in various culinary dishes.",
+      "description": "Carrots are low in calories but high in essential nutrients. They are an excellent source of beta-carotene.",
+      "stock": 40,
+      "price": 10,
+      "image_url": "https://images.unsplash.com/photo-1633380110125-f6e685676160?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fGNhcnJvdHxlbnwwfHwwfHx8MA%3D%3D"
+    }
+  ],
+  "Fruits": [
+    {
+      "id": 1,
+      "name": "Mango",
+      "full description": "Mango is a tropical fruit from the Mangifera genus, prized for its sweet, juicy flesh and delightful aroma. It belongs to the Anacardiaceae family and is one of the most popular and widely consumed fruits worldwide.",
+      "description": " Mangos are rich in vitamins (particularly vitamin C and vitamin A), minerals (like potassium and magnesium)",
+      "stock": 70,
+      "price": 30,
+      "image_url": "https://wallpapers.com/images/featured/mango-evb0z302mlfebdo0.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Apple",
+      "full description": "Apples are a good source of fiber, vitamins (such as vitamin C), and various antioxidants.They are low in calories, making them a healthy snack option.",
+      "description": " The apple is a widely known and popular fruit worldwide, known for its sweet, crisp taste and nutritional value.",
+      "stock": 80,
+      "price": 50,
+      "image_url": "https://images.unsplash.com/photo-1560806887-1e4cd0b6cbd6?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8Nnx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": 3,
+      "name": "Pineapple",
+      "full description": "Pineapples grow on a tropical plant and typically take around 18-20 months to mature. They are harvested when ripe, which is indicated by their color and fragrance. However, unlike some fruits, pineapples do not continue to ripen after being picked.",
+      "description": "The fruit can be grilled or roasted to enhance its natural sweetness and used in both sweet and savory dishes.",
+      "stock": 30,
+      "price": 20,
+      "image_url": "https://media.istockphoto.com/id/1300862530/photo/pineapples.jpg?s=1024x1024&w=is&k=20&c=fthg-qm2sFTFJfKXV3NjHH_CyakZmQOqbMGXXRBIPPM="
+    },
+    {
+      "id": 4,
+      "name": "Banana",
+      "full description": "Bananas are one of the most popular and widely consumed fruits globally, known for their distinctive elongated shape, creamy texture, and sweet flavor. Here is an overview of their characteristics:",
+      "description": " Bananas have a naturally sweet taste with varying levels of sweetness depending on ripeness.",
+      "stock": 30,
+      "price": 15,
+      "image_url": "https://wallpapercave.com/wp/wp2145487.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Pomagranat",
+      "full description": "Pomegranate arils can be eaten fresh as a snack or added to various dishes to add a burst of flavor and texture. They are commonly used in salads, desserts, smoothies, and as a garnish for both sweet and savory dishes.",
+      "description": "The pomegranate is a unique and distinctive fruit known for its vibrant color, juicy seeds, and sweet-tart flavor.",
+      "stock": 30,
+      "price": 70,
+      "image_url": "https://c4.wallpaperflare.com/wallpaper/634/544/1017/fruits-pomegranate-fruit-wallpaper-preview.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Orange",
+      "full description": "Oranges can be eaten fresh by peeling off the skin and separating the segments. They are often juiced to make orange juice, a popular beverage worldwide.",
+      "description": "Oranges are a popular citrus fruit known for their bright color, refreshing taste, and abundance of nutrients.",
+      "stock": 70,
+      "price": 50,
+      "image_url": "https://images.unsplash.com/photo-1611080626919-7cf5a9dbab5b?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8b3JhbmdlfGVufDB8fDB8fHww"
+    },
+    {
+      "id": 7,
+      "name": "Strawberry",
+      "full description": "Strawberries are cherished for their delightful taste, vibrant color, versatility in culinary applications, and nutritional value, making them a beloved fruit enjoyed in various forms worldwide.",
+      "description": "Strawberries are popular and delicious berries known for their vibrant red color, juicy texture, and sweet flavor.",
+      "stock": 30,
+      "price": 90,
+      "image_url": "https://clv.h-cdn.co/assets/15/22/2560x1728/gallery-1432664914-strawberry-facts1.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Jackfruit",
+      "full description": "Jackfruit is rich in nutrients and a good source of carbohydrates, fiber, vitamins (such as vitamin C and vitamin B6), and minerals like potassium and magnesium.",
+      "description": "Jackfruit is a tropical fruit recognized for its large size, unique appearance, and distinct flavor.",
+      "stock": 300,
+      "price": 80,
+      "image_url": "https://wallpapercave.com/dwp2x/wp3131573.jpg"
+    },
+    {
+      "id": 9,
+      "name": "grapes",
+      "full description": "Grapes come in various colors including green (like Thompson Seedless), red/purple (like Red Globe or Concord), and black/blue (like Cabernet Sauvignon). The shapes and sizes of individual grapes can vary based on the grape variety.",
+      "description": "Grapes are small, round or oval-shaped fruits that grow in clusters on vines belonging to the flowering plant genus Vitis.",
+      "stock": 50,
+      "price": 20,
+      "image_url": "https://live.staticflickr.com/8631/16396616600_e2013dc70a_h.jpg"
+    }
+  ],
+  "Dairy": [
+    {
+      "id": 1,
+      "name": "Chesse",
+      "description": "Explore and elevate your culinary experience with our exquisite range of artisanal cheeses, perfect for sophistication.",
+      "stock": 20,
+      "price": 75,
+      "image_url": "https://images5.alphacoders.com/665/665475.png"
+    },
+    {
+      "id": 2,
+      "name": "Amul Chesse",
+      "description": "Discover the savory delight of Amul Cheese, a premium and flavorful choice, available at your fingertips in our store.",
+      "stock": 40,
+      "price": 80,
+      "image_url": "https://amul.com/files/products/Amul_Processed_Cheese_1.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Butter",
+      "description": "Indulge in the rich and creamy goodness of our premium butter, a versatile kitchen essential that elevates the taste of every dish",
+      "stock": 25,
+      "price": 60,
+      "image_url": "https://img.freepik.com/premium-photo/butter-white-background_62856-1262.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Amul Butter",
+      "description": "Savor the unmatched richness of Amul Butter, a delectable and iconic choice, conveniently accessible in our eCommerce store",
+      "stock": 17,
+      "price": 58,
+      "image_url": "https://m.media-amazon.com/images/I/51KrxEKN58L._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Amul Paneer",
+      "description": "Paneer is a rich source of protein and calcium, promoting muscle development and supporting bone health.",
+      "stock": 14,
+      "price": 100,
+      "image_url": "https://radhadairyfood.com/images/product/paneerr.png"
+    }
+  ],
+  "Users": [
+    {
+      "username": "bliss_pavi",
+      "email": "pavithranadithya1441@gmail.com",
+      "password": "12345678",
+      "passwordConfirm": "12345678",
+      "name": "Pavithran",
+      "id": 1
+    },
+    {
+      "username": "Pavithran",
+      "email": "727722euit126@skcet.ac.in",
+      "password": "12345678",
+      "passwordConfirm": "12345678",
+      "name": "Pavithran G",
+      "id": 2
+    },
+    {
+      "username": "pavithranadithya1441@gamil.com",
+      "email": "727722euit126@skcet.ac.in",
+      "password": "12345678",
+      "passwordConfirm": "12345678",
+      "name": "pavithran98",
+      "id": 3
+    }
+  ]
+}

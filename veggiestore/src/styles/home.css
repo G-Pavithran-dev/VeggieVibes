@@ -1,0 +1,65 @@
+.weltext {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 900;
+    color: green;
+    animation-name: offer;
+    animation-duration: 1s;
+    animation-direction: alternate;
+    animation-iteration-count: infinite
+}
+
+.bold {
+    font-size: large;
+}
+
+
+@keyframes offer {
+    0% {
+        color: #0000FE
+    }
+
+    25% {
+        color: #FE0000;
+    }
+
+    75% {
+        color: #147B67;
+    }
+
+    100% {
+        color: #FF00C5;
+    }
+
+}
+
+.offerbox {
+    padding-top: 90px;
+}
+
+.link {
+    text-decoration: none;
+    font-size: larger;
+    color: white;
+
+}
+.link:hover {
+    color:black;
+}
+.log {
+    text-decoration: none;
+    font-size: larger;
+    color: white;
+    /* padding-left: 15px; */
+}
+
+.log:hover {
+    color:black;
+}
+
+.logo:hover {
+    content: url('/veggievibes-logo-black.png');
+}
+
+.main {
+    padding-top: 130px;
+}
